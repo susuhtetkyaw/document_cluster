@@ -10,12 +10,11 @@ boto==2.38.0
 bz2file==0.98
 certifi==2015.04.28
 docutils==0.12
-functools32==3.2.3-1
 gensim==0.11.1-1
 gnureadline==6.3.3
 ipython==3.2.0
 jsonschema==2.5.1
-matplotlib==1.4.3
+matplotlib
 mistune==0.6
 mock==1.0.1
 mpld3==0.2
@@ -38,4 +37,4 @@ snowballstemmer==1.2.0
 sphinx-rtd-theme==0.1.8
 terminado==0.5
 tornado==4.2
-wsgiref==0.1.2
+wsgiref
