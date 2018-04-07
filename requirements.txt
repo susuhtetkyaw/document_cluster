@@ -38,3 +38,4 @@ sphinx-rtd-theme==0.1.8
 terminado==0.5
 tornado==4.2
 wsgiref
+wordcloud
